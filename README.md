@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Engineer | React.js<br>3+ years experience with React, JavaScript (ES6+), Redux/Context,<br>REST APIs, and responsive UI.<br>Experienced in optimizing performance and building\<br>production-ready web apps.
+Frontend Engineer | React.js<br>3+ years experience with React, JavaScript (ES6+), Redux/Context,<br>REST APIs, and responsive UI.Experienced in optimizing performance and building\<br>production-ready web apps.
 
 
 ## 🌐 Socials:
